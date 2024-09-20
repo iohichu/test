@@ -1,2 +1,6 @@
 hello from new branch
+<<<<<<< HEAD
 Another update from main
+=======
+Hello from new-feature
+>>>>>>> 61123a4 (Update file in new-feature branch)
